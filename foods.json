@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "restaurantId": 1,
+    "name": "Phở bò tái chín",
+    "description": "Phở nước dùng xương bò hầm 8 tiếng, thịt bò tái và chín mềm.",
+    "price": 55000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174880.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 2,
+    "restaurantId": 1,
+    "name": "Phở gà đặc biệt",
+    "description": "Phở nước trong, thịt gà ta xé, hành lá thơm.",
+    "price": 50000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 3,
+    "restaurantId": 1,
+    "name": "Bún bò Huế",
+    "description": "Bún bò Huế cay nồng, giò heo và chả đầy đủ.",
+    "price": 60000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 4,
+    "restaurantId": 1,
+    "name": "Hủ tiếu Nam Vang",
+    "description": "Hủ tiếu nước đậm đà, thịt, tôm, trứng cút đầy đủ.",
+    "price": 52000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174883.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 5,
+    "restaurantId": 1,
+    "name": "Mì Quảng Đà Nẵng",
+    "description": "Mì Quảng trộn đậm đà, thịt heo, tôm và trứng cút.",
+    "price": 50000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174891.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 6,
+    "restaurantId": 1,
+    "name": "Cơm tấm sườn bì chả",
+    "description": "Cơm tấm hạt rời, sườn nướng, bì, chả và nước mắm chua ngọt.",
+    "price": 45000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 7,
+    "restaurantId": 1,
+    "name": "Cơm gà xối mỡ",
+    "description": "Cơm chiên vàng giòn, gà xối mỡ giòn rụm, thơm phức.",
+    "price": 48000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 8,
+    "restaurantId": 1,
+    "name": "Cơm chiên dương châu",
+    "description": "Cơm chiên vàng ươm, trứng, xúc xích và đậu hà lan đầy màu sắc.",
+    "price": 42000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 9,
+    "restaurantId": 1,
+    "name": "Cơm bò lúc lắc",
+    "description": "Bò xào tiêu đen thơm lừng, ăn kèm cơm trắng và salad.",
+    "price": 65000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 10,
+    "restaurantId": 1,
+    "name": "Cơm cá kho tộ",
+    "description": "Cá kho tộ truyền thống, thịt cá thấm gia vị, cơm nóng hổi.",
+    "price": 50000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 11,
+    "restaurantId": 1,
+    "name": "Gỏi cuốn tôm thịt",
+    "description": "Cuốn tôm thịt tươi ngon, chấm mắm nêm thơm béo.",
+    "price": 30000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 12,
+    "restaurantId": 1,
+    "name": "Chả giò rế",
+    "description": "Chả giò rế giòn tan, nhân tôm thịt hấp dẫn.",
+    "price": 32000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075984.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 13,
+    "restaurantId": 1,
+    "name": "Bánh bao chiên",
+    "description": "Bánh bao chiên vàng, nhân thịt trứng cút thơm ngon.",
+    "price": 28000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075990.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 14,
+    "restaurantId": 1,
+    "name": "Khoai tây chiên",
+    "description": "Khoai tây chiên vàng giòn, chấm tương ớt hấp dẫn.",
+    "price": 25000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075988.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 15,
+    "restaurantId": 1,
+    "name": "Salad trộn dầu giấm",
+    "description": "Rau củ tươi giòn, trộn dầu giấm chua nhẹ, thanh mát.",
+    "price": 27000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075989.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 16,
+    "restaurantId": 1,
+    "name": "Chè đậu xanh nước cốt dừa",
+    "description": "Chè đậu xanh mịn, nước cốt dừa béo ngậy.",
+    "price": 25000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706195.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 17,
+    "restaurantId": 1,
+    "name": "Chè thái sầu riêng",
+    "description": "Chè thái mát lạnh, có mít, sầu riêng và thạch.",
+    "price": 30000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706208.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 18,
+    "restaurantId": 1,
+    "name": "Kem dừa xiêm",
+    "description": "Kem dừa tươi trong trái dừa xiêm, topping phong phú.",
+    "price": 35000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706206.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 19,
+    "restaurantId": 1,
+    "name": "Bánh flan caramel",
+    "description": "Bánh flan mịn màng, phủ caramel ngọt nhẹ.",
+    "price": 22000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706199.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 20,
+    "restaurantId": 1,
+    "name": "Sữa chua trái cây",
+    "description": "Sữa chua dẻo, ăn kèm trái cây tươi mát lạnh.",
+    "price": 28000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706205.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 21,
+    "restaurantId": 1,
+    "name": "Bún riêu cua",
+    "description": "Bún riêu cua đồng, chả riêu, huyết, đậu hũ đầy đủ.",
+    "price": 55000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 22,
+    "restaurantId": 1,
+    "name": "Bún chả Hà Nội",
+    "description": "Bún chả nướng, nước chấm chua ngọt đúng vị.",
+    "price": 60000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174881.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 23,
+    "restaurantId": 1,
+    "name": "Hủ tiếu xào hải sản",
+    "description": "Hủ tiếu xào tôm mực, rau cải, vị đậm đà.",
+    "price": 55000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174883.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 24,
+    "restaurantId": 1,
+    "name": "Mì xào giòn thập cẩm",
+    "description": "Mì giòn rụm, topping bò, tôm, mực, rau củ.",
+    "price": 58000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174891.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 25,
+    "restaurantId": 1,
+    "name": "Bánh canh cua",
+    "description": "Bánh canh cua gạch, nước dùng sánh đặc, thịt cua thật.",
+    "price": 65000,
+    "category": "Món nước",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 26,
+    "restaurantId": 1,
+    "name": "Cơm chiên hải sản",
+    "description": "Cơm chiên thơm, có tôm, mực, rau củ đầy đủ.",
+    "price": 52000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 27,
+    "restaurantId": 1,
+    "name": "Cơm trứng chiên",
+    "description": "Cơm nóng, trứng chiên vàng giòn, đơn giản mà ngon.",
+    "price": 35000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 28,
+    "restaurantId": 1,
+    "name": "Cơm sườn nướng mật ong",
+    "description": "Sườn nướng mật ong thơm ngọt, ăn kèm dưa leo và cơm.",
+    "price": 52000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 29,
+    "restaurantId": 1,
+    "name": "Cơm chay thập cẩm",
+    "description": "Cơm chay với đậu hũ, rau củ, nước tương nhẹ nhàng.",
+    "price": 40000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 30,
+    "restaurantId": 1,
+    "name": "Cơm tấm trứng ốp la",
+    "description": "Cơm tấm hạt rời, trứng ốp la lòng đào hấp dẫn.",
+    "price": 42000,
+    "category": "Cơm",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 31,
+    "restaurantId": 1,
+    "name": "Gỏi ngó sen tôm thịt",
+    "description": "Ngó sen giòn, tôm thịt tươi, nước trộn chua ngọt.",
+    "price": 32000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 32,
+    "restaurantId": 1,
+    "name": "Đậu hũ chiên giòn",
+    "description": "Đậu hũ chiên vàng, chấm nước tương ớt cay.",
+    "price": 25000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075988.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 33,
+    "restaurantId": 1,
+    "name": "Bánh gạo cay Hàn Quốc",
+    "description": "Tokbokki cay ngọt, phủ phô mai tan chảy.",
+    "price": 45000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075990.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 34,
+    "restaurantId": 1,
+    "name": "Nem chua rán",
+    "description": "Nem chua rán giòn rụm, chấm tương ớt chua ngọt.",
+    "price": 28000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075984.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 35,
+    "restaurantId": 1,
+    "name": "Bắp xào tôm khô",
+    "description": "Bắp xào tôm khô thơm bơ, hành lá, đậm đà hương vị.",
+    "price": 30000,
+    "category": "Khai vị",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075989.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 36,
+    "restaurantId": 1,
+    "name": "Kem vani socola",
+    "description": "Kem vani xen lẫn socola đắng, vị ngọt dịu mát.",
+    "price": 28000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706206.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 37,
+    "restaurantId": 1,
+    "name": "Chè bưởi",
+    "description": "Chè bưởi giòn, nước cốt dừa béo ngậy, vị ngọt thanh.",
+    "price": 27000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706195.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 38,
+    "restaurantId": 1,
+    "name": "Bánh crepe chuối",
+    "description": "Crepe mềm, chuối chín ngọt và sốt socola.",
+    "price": 32000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706205.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 39,
+    "restaurantId": 1,
+    "name": "Bánh pudding xoài",
+    "description": "Pudding xoài mịn màng, mát lạnh, vị ngọt tự nhiên.",
+    "price": 28000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706199.png",
+    "status": "AVAILABLE"
+  },
+  {
+    "id": 40,
+    "restaurantId": 1,
+    "name": "Sâm bổ lượng",
+    "description": "Chè sâm bổ lượng mát, nhiều topping bổ dưỡng.",
+    "price": 30000,
+    "category": "Tráng miệng",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706208.png",
+    "status": "AVAILABLE"
+  }
+]
