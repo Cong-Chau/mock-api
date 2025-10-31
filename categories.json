@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Món nước",
+    "description": "Các món có nước dùng như phở, bún, mì, hủ tiếu..."
+  },
+  {
+    "id": 2,
+    "name": "Cơm",
+    "description": "Các món cơm phần, cơm chiên, cơm trộn, cơm niêu..."
+  },
+  {
+    "id": 3,
+    "name": "Khai vị",
+    "description": "Món ăn nhẹ trước bữa chính như gỏi, chả giò, soup..."
+  },
+  {
+    "id": 4,
+    "name": "Tráng miệng",
+    "description": "Các món ngọt, chè, bánh, kem, trái cây sau bữa ăn."
+  }
+]
