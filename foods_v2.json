@@ -6,7 +6,7 @@
     "description": "Phở nước dùng xương bò hầm 8 tiếng, thịt bò tái và chín mềm.",
     "price": 55000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174880.png",
+    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
     "status": "AVAILABLE"
   },
   {
@@ -16,7 +16,7 @@
     "description": "Phở nước trong, thịt gà ta xé, hành lá thơm.",
     "price": 50000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+    "imageUrl": "https://images.unsplash.com/photo-1590420882553-4f9150b71f92?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1165",
     "status": "AVAILABLE"
   },
   {
@@ -26,7 +26,7 @@
     "description": "Bún bò Huế cay nồng, giò heo và chả đầy đủ.",
     "price": 60000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "imageUrl": "https://images.unsplash.com/photo-1597345637412-9fd611e758f3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
     "status": "AVAILABLE"
   },
   {
@@ -36,7 +36,7 @@
     "description": "Hủ tiếu nước đậm đà, thịt, tôm, trứng cút đầy đủ.",
     "price": 52000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174883.png",
+    "imageUrl": "https://images.unsplash.com/photo-1610452220299-5edf90b8a6ed?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880",
     "status": "AVAILABLE"
   },
   {
@@ -46,7 +46,7 @@
     "description": "Mì Quảng trộn đậm đà, thịt heo, tôm và trứng cút.",
     "price": 50000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174891.png",
+    "imageUrl": "https://media.istockphoto.com/id/1469161067/vi/anh/m%C3%AC-qu%E1%BA%A3ng-m%C3%B3n-m%C3%AC-truy%E1%BB%81n-th%E1%BB%91ng-c%E1%BB%A7a-t%E1%BB%89nh-qu%E1%BA%A3ng-nam.jpg?s=1024x1024&w=is&k=20&c=j6gEZHJ9glvqkmBH9VOhE81MiVLMJ3Q_Cx3Gb6bF8yA=",
     "status": "AVAILABLE"
   },
   {
@@ -56,7 +56,7 @@
     "description": "Cơm tấm hạt rời, sườn nướng, bì, chả và nước mắm chua ngọt.",
     "price": 45000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://media.istockphoto.com/id/1215850319/vi/anh/m%C3%B3n-%C4%83n-%C4%91%C6%B0%E1%BB%9Dng-ph%E1%BB%91-%C4%91%E1%BA%B7c-tr%C6%B0ng-c%E1%BB%A7a-vi%E1%BB%87t-nam-s%C3%A0i-g%C3%B2n-v%E1%BB%9Bi-s%C6%B0%E1%BB%9Dn-heo-n%C6%B0%E1%BB%9Bng-v%C3%A0-rau-c%E1%BB%A7.jpg?s=1024x1024&w=is&k=20&c=IVell8tg-3Zs2xW6r0Bm9IO4xSW9DTGu-Qn0ELATM0o=",
     "status": "AVAILABLE"
   },
   {
@@ -66,7 +66,7 @@
     "description": "Cơm chiên vàng giòn, gà xối mỡ giòn rụm, thơm phức.",
     "price": 48000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.XBY9Yy7vweG82dyUOIk38gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
     "status": "AVAILABLE"
   },
   {
@@ -76,7 +76,7 @@
     "description": "Cơm chiên vàng ươm, trứng, xúc xích và đậu hà lan đầy màu sắc.",
     "price": 42000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://cdn.tgdd.vn/Files/2019/12/30/1229114/cach-lam-com-chien-duong-chau-sieu-hap-dan-chong-ngan-ngay-tet-hat-com-vang-uom-toi-va-tham-vi-202203031505257988.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -86,7 +86,7 @@
     "description": "Bò xào tiêu đen thơm lừng, ăn kèm cơm trắng và salad.",
     "price": 65000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://th.bing.com/th/id/R.b82fa7dfdb29d992b5616a7656820017?rik=UsIl2Em2H6JW2A&pid=ImgRaw&r=0",
     "status": "AVAILABLE"
   },
   {
@@ -96,7 +96,7 @@
     "description": "Cá kho tộ truyền thống, thịt cá thấm gia vị, cơm nóng hổi.",
     "price": 50000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.7jB0t9UIUfTwokSvpbJmWwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
     "status": "AVAILABLE"
   },
   {
@@ -106,7 +106,7 @@
     "description": "Cuốn tôm thịt tươi ngon, chấm mắm nêm thơm béo.",
     "price": 30000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "imageUrl": "https://cdn.netspace.edu.vn/images/2020/04/25/cach-lam-goi-cuon-tom-thit-cuc-ki-hap-dan-245587-800.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -116,7 +116,7 @@
     "description": "Chả giò rế giòn tan, nhân tôm thịt hấp dẫn.",
     "price": 32000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075984.png",
+    "imageUrl": "https://i.ytimg.com/vi/xhsctW9b_oY/maxresdefault.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -126,7 +126,7 @@
     "description": "Bánh bao chiên vàng, nhân thịt trứng cút thơm ngon.",
     "price": 28000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075990.png",
+    "imageUrl": "https://www.huongnghiepaau.com/wp-content/uploads/2019/03/banh-bao-chien.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -136,7 +136,7 @@
     "description": "Khoai tây chiên vàng giòn, chấm tương ớt hấp dẫn.",
     "price": 25000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075988.png",
+    "imageUrl": "https://cdn.tgdd.vn/2021/07/CookProduct/khoai-tay-chien-bao-nhieu-calo-an-khoai-lang-hay-khoai-tay-chien-tot-hon-00-1200x676.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -146,7 +146,7 @@
     "description": "Rau củ tươi giòn, trộn dầu giấm chua nhẹ, thanh mát.",
     "price": 27000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075989.png",
+    "imageUrl": "https://sieuthisaigon.com.vn/upload/source/dichvu/c%C3%B4ng%20th%E1%BB%A9c%20n%E1%BA%A5u%20%C4%83n/mon%20man/salad/mon-salad-tron-dau-giam.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -156,7 +156,7 @@
     "description": "Chè đậu xanh mịn, nước cốt dừa béo ngậy.",
     "price": 25000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706195.png",
+    "imageUrl": "https://i.ytimg.com/vi/UYb9PG0TXIs/maxresdefault.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -166,7 +166,7 @@
     "description": "Chè thái mát lạnh, có mít, sầu riêng và thạch.",
     "price": 30000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706208.png",
+    "imageUrl": "https://beptruong.edu.vn/wp-content/uploads/2018/06/mon-che-thai-sau-rieng.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -176,7 +176,7 @@
     "description": "Kem dừa tươi trong trái dừa xiêm, topping phong phú.",
     "price": 35000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706206.png",
+    "imageUrl": "https://mms.img.susercontent.com/vn-11134513-7r98o-lsuafi2fr9nd7a@resize_ss1242x600!@crop_w1242_h600_cT",
     "status": "AVAILABLE"
   },
   {
@@ -186,7 +186,7 @@
     "description": "Bánh flan mịn màng, phủ caramel ngọt nhẹ.",
     "price": 22000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706199.png",
+    "imageUrl": "https://cdn.zsoft.solutions/poseidon-web/app/media/Kham-pha-am-thuc/11.2023/251123-cach-lam-banh-flan-buffet-poseidon-02-jpg.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -196,7 +196,7 @@
     "description": "Sữa chua dẻo, ăn kèm trái cây tươi mát lạnh.",
     "price": 28000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706205.png",
+    "imageUrl": "https://phucnguyen.vn/wp-content/uploads/2021/12/cach-lam-sua-chua-hoa-qua-ngon-tai-nha-cach-lam-sua-chua-hoa-qua-3-1556854456-365-width551height366.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -206,7 +206,7 @@
     "description": "Bún riêu cua đồng, chả riêu, huyết, đậu hũ đầy đủ.",
     "price": 55000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "imageUrl": "https://i-giadinh.vnecdn.net/2024/02/22/Bc8Thnhphm18-1708574950-2889-1708574962.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -216,7 +216,7 @@
     "description": "Bún chả nướng, nước chấm chua ngọt đúng vị.",
     "price": 60000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174881.png",
+    "imageUrl": "https://cdn.zsoft.solutions/poseidon-web/app/media/uploaded-files/090724-bun-cha-ha-noi-buffet-poseidon-1.jpeg",
     "status": "AVAILABLE"
   },
   {
@@ -226,7 +226,7 @@
     "description": "Hủ tiếu xào tôm mực, rau cải, vị đậm đà.",
     "price": 55000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174883.png",
+    "imageUrl": "https://product.hstatic.net/200000408931/product/cachlamhutieuxao8_153205c9af944994b1a4ebacf6fe01f8_master.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -236,7 +236,7 @@
     "description": "Mì giòn rụm, topping bò, tôm, mực, rau củ.",
     "price": 58000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174891.png",
+    "imageUrl": "https://checkinvietnam.vtc.vn/media/20211118/images/mi-xao-gion_50w.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -246,7 +246,7 @@
     "description": "Bánh canh cua gạch, nước dùng sánh đặc, thịt cua thật.",
     "price": 65000,
     "category": 1,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3174/3174885.png",
+    "imageUrl": "https://www.cleanipedia.com/images/5iwkm8ckyw6v/6ZzmagCQkHADBgZ1QvYO4F/3f6ceffac0e9f93f3667a3be7d23b835/dG9uZy1ob3AtMy1jYWNoLW5hdS1iYW5oLWNhbmgtY3VhLW5nb24tYmF0LWJhaS1jdWMtaGFwLWRhbi10YWktbmhhLmpwZw/1200w/b%C3%A1t-s%C3%BAp-h%E1%BA%A3i-s%E1%BA%A3n-v%E1%BB%9Bi-cua%2C-m%E1%BB%B1c%2C-v%C3%A0-c%C3%A1c-lo%E1%BA%A1i-th%E1%BB%B1c-ph%E1%BA%A9m-kh%C3%A1c..jpg",
     "status": "AVAILABLE"
   },
   {
@@ -256,7 +256,7 @@
     "description": "Cơm chiên thơm, có tôm, mực, rau củ đầy đủ.",
     "price": 52000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://vcdn1-giadinh.vnecdn.net/2025/05/28/Com-rang-hai-san-5-vnexpress-1-9246-8610-1748420387.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=YyCXvJNUeWWSDgcg_I6k7A",
     "status": "AVAILABLE"
   },
   {
@@ -266,7 +266,7 @@
     "description": "Cơm nóng, trứng chiên vàng giòn, đơn giản mà ngon.",
     "price": 35000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://nineshield.com.vn/wp-content/uploads/2024/03/com-chien-trung-op-la.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -276,7 +276,7 @@
     "description": "Sườn nướng mật ong thơm ngọt, ăn kèm dưa leo và cơm.",
     "price": 52000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://comtamghien.com/wp-content/uploads/suon-non.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -286,7 +286,7 @@
     "description": "Cơm chay với đậu hũ, rau củ, nước tương nhẹ nhàng.",
     "price": 40000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://img-global.cpcdn.com/recipes/8b49174633ca2798/1200x630cq80/photo.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -296,7 +296,7 @@
     "description": "Cơm tấm hạt rời, trứng ốp la lòng đào hấp dẫn.",
     "price": 42000,
     "category": 2,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/860/860403.png",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIumZk_T82ho4p-amdjsIGJHZ-apme4PrTSw&s",
     "status": "AVAILABLE"
   },
   {
@@ -306,7 +306,7 @@
     "description": "Ngó sen giòn, tôm thịt tươi, nước trộn chua ngọt.",
     "price": 32000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png",
+    "imageUrl": "https://cdn.tgdd.vn/Files/2020/05/25/1258272/cach-lam-goi-ngo-sen-tom-thit-gion-ngon-don-gian-t.png",
     "status": "AVAILABLE"
   },
   {
@@ -316,7 +316,7 @@
     "description": "Đậu hũ chiên vàng, chấm nước tương ớt cay.",
     "price": 25000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075988.png",
+    "imageUrl": "https://vcdn1-giadinh.vnecdn.net/2023/11/21/anh6-1700558431-1925-1700558699.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gSxELqIuBtOZ3TWecsWpvw",
     "status": "AVAILABLE"
   },
   {
@@ -326,7 +326,7 @@
     "description": "Tokbokki cay ngọt, phủ phô mai tan chảy.",
     "price": 45000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075990.png",
+    "imageUrl": "https://file.hstatic.net/1000155899/article/tulambanhgao_87379ab211e04025967c94f9026422c7.png",
     "status": "AVAILABLE"
   },
   {
@@ -336,7 +336,7 @@
     "description": "Nem chua rán giòn rụm, chấm tương ớt chua ngọt.",
     "price": 28000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075984.png",
+    "imageUrl": "https://cdn.tgdd.vn/Files/2020/03/23/1243844/lam-nem-chua-ran-chien-xu-chuan-vi-ha-noi-tai-nha-202201101658126508.jpeg",
     "status": "AVAILABLE"
   },
   {
@@ -346,7 +346,7 @@
     "description": "Bắp xào tôm khô thơm bơ, hành lá, đậm đà hương vị.",
     "price": 30000,
     "category": 3,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075989.png",
+    "imageUrl": "https://product.hstatic.net/200000916609/product/l16-4_023e385f5a634ed9a9712115fc87fdae_master.png",
     "status": "AVAILABLE"
   },
   {
@@ -356,7 +356,7 @@
     "description": "Kem vani xen lẫn socola đắng, vị ngọt dịu mát.",
     "price": 28000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706206.png",
+    "imageUrl": "https://cdn.tgdd.vn/2020/07/CookProductThumb/10-620x620-7.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -366,7 +366,7 @@
     "description": "Chè bưởi giòn, nước cốt dừa béo ngậy, vị ngọt thanh.",
     "price": 27000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706195.png",
+    "imageUrl": "https://i-giadinh.vnecdn.net/2023/06/19/Bc9Thnhphm19-1687166663-2899-1687167360.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -376,7 +376,7 @@
     "description": "Crepe mềm, chuối chín ngọt và sốt socola.",
     "price": 32000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706205.png",
+    "imageUrl": "https://daylambanh.edu.vn/wp-content/uploads/2018/08/banh-crepe-chuoi-socola-600x400.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -386,7 +386,7 @@
     "description": "Pudding xoài mịn màng, mát lạnh, vị ngọt tự nhiên.",
     "price": 28000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706199.png",
+    "imageUrl": "https://sunhouse.com.vn/pic/news/1360_cach_lam_banh_pudding_xoai_1.jpg",
     "status": "AVAILABLE"
   },
   {
@@ -396,7 +396,7 @@
     "description": "Chè sâm bổ lượng mát, nhiều topping bổ dưỡng.",
     "price": 30000,
     "category": 4,
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/706/706208.png",
+    "imageUrl": "https://www.btaskee.com/wp-content/uploads/2021/08/Sam-bo-luong.jpg",
     "status": "AVAILABLE"
   }
 ]
